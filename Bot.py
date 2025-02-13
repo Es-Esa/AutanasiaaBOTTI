@@ -78,4 +78,4 @@ async def apua(ctx):
         await voice_client.disconnect()
 
 # Tätä ei ikinä saisi pitää täälä .env siirretään myöhemmin
-bot.run('MTE1MzMyMjE3ODI1NTc4MTg5OQ.G4cUp5._-ct64ACPVNnWGG7mf49bC3DrGkFjF5dSwtg3o')
+bot.run('YourDiscordKey')
